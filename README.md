@@ -1,2 +1,2 @@
-# time-series
-Implementing an ARIMA model to predict future values of a hotel's average daily rate (ADR) based on its past ADR values.
+# Hotel Booking Demand Dataset
+The purpose of this project is to predict hotel booking cancellations using classification models (logistic regression, random forest, and support vector machine (SVM), and to predict average daily rate (ADR) using an ARIMA model. The dataset used for this project is the hotel booking demand dataset provided by Antonio, Almeida and Nunes (2019). Access here: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data
